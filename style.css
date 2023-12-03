@@ -42,3 +42,22 @@ body{
 .button-style h2 a{
     color: rgba(63, 135, 245, 1);
 }
+/* album area style */
+.album-area{
+    padding: 80px;
+}
+.album img{
+    width: 450px;
+    height: 300px;
+    border-radius: 5px;
+}
+.album-contant h1{
+    color: rgba(10, 8, 38, 1);
+    font-size: 35px;
+    font-weight: bold; 
+}
+.album-contant p{
+    color: rgba(108, 108, 108, 1);
+    font-size: 16px;
+    font-weight: bold;
+}
